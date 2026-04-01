@@ -14,7 +14,9 @@ Estou a concluir o curso de **Técnico Especialista em Tecnologias e Programaç�
 - **[Jogo do Galo](https://github.com/luizmiguelpe/JogoGalo):** Lógica de jogo desenvolvida em C#.
 
 ## 📫 Como me encontrar:
-- **LinkedIn:** [linkedin.com/in/luiz-miguel-pereira](https://www.linkedin.com/in/luiz-miguel-pereira)
+- **LinkedIn:** [linkedin.com/in/luiz-miguel-pereira](www.linkedin.com/in/luizmiguelpereira
+
+)
 - **Localização:** Portugal (Disponível para Home-Office e Presencial)
 
 ---
