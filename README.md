@@ -12,6 +12,7 @@ Estou a concluir o curso de **Técnico Especialista em Tecnologias e Programaç�
 - **[MovieExplorer](https://github.com/luizmiguelpe/MovieExplorer):** Consulta de filmes via API REST (OMDb) em C#.
 - **[Loja Online](https://github.com/luizmiguelpe/Loja_Online):** Protótipo de e-commerce funcional.
 - **[Jogo do Galo](https://github.com/luizmiguelpe/JogoGalo):** Lógica de jogo desenvolvida em C#.
+- **[Portfólio](https://github.com/luizmiguelpe/Portfolio):** Portfólio Pessoal. 
 
 ## 📫 Como me encontrar:
 - **LinkedIn:** www.linkedin.com/in/luizmiguelpereira
